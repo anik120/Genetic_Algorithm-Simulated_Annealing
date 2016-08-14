@@ -1,2 +1,1 @@
-# GradFinalYearProject
-Code, dataset, result set of graduation (June, 2015) final year project
+Note: Please use a linux operating system to compile and run the .c files. 
